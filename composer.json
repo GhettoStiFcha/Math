@@ -1,0 +1,16 @@
+{
+    "name": "skuleshov/math",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Slava Kuleshov",
+            "email": "slava3626@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Contracts\\": "App/Contracts"
+        }
+    }
+}
